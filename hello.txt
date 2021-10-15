@@ -1,8 +1,10 @@
+<<<<<<< HEAD
 hello345
 hello
 hello252
 h
 wa
-master
-wa
-elo
+masterhe
+hello2524
+hello hot-fix
+
